@@ -73,7 +73,7 @@ The virtual testing environment includes:
 
 | Rover Approaching Stairs | Rover Climbing with LIDAR Active |
 |---|---|
-| ![Rover approaching stairs](rover-1.jpg) | ![Rover climbing with LIDAR](images/rover-2.jpg) |
+| ![Rover approaching stairs](rover-1.jpg) | ![Rover climbing with LIDAR](rover-2.jpg) |
 
 ### Simulation Video
 
