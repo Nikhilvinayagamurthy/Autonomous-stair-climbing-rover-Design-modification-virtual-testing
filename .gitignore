@@ -1,0 +1,21 @@
+# Siemens NX files
+   *.prt.bak
+   *.prt~
+   *.log
+   *.jnl
+   *.tmp
+   *_backup*
+
+   # Large simulation files
+   *.sim
+   *.afm
+   *.op2
+   *.f06
+
+   # OS files
+   .DS_Store
+   Thumbs.db
+   desktop.ini
+
+   # Windows
+   *.lnk
