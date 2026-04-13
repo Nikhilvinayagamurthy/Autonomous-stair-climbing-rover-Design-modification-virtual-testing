@@ -1,18 +1,18 @@
-# 🤖 Autonomous Stair-Climbing Rover — Design Modification & Virtual Testing
+## Autonomous Stair-Climbing Rover — Design Modification & Virtual Testing
 
-> **Design for Industry 4.0 Lab | TU Clausthal | Summer Term 2024**  
-> Master Program: Intelligent Manufacturing  
-> Team: Davis Linston Stephen Raj, Nikhil Vinayagamurthy, Raghav Dixit
+Design for Industry 4.0 Lab | TU Clausthal | Summer Term 2024
+Master Program: Intelligent Manufacturing  
+Team: Nikhil Vinayagamurthy, Davis Linston Stephen Raj, Raghav Dixit
+
+
+
+## Project Overview
+
+This project focused on the **"Design modification and virtual evaluation"** of an autonomous rover to enable it to climb indoor stairs up to **10 cm in height**. A base rover model was provided, and the work involved improving its stair-climbing capability through mechanical redesign, sensor integration, and physics-based simulation in **Siemens NX CAD / Mechatronics Concept Designer**.
 
 ---
 
-## 📌 Project Overview
-
-This project focused on the **design modification and virtual evaluation** of an autonomous rover to enable it to climb indoor stairs up to **10 cm in height**. A base rover model was provided, and the work involved improving its stair-climbing capability through mechanical redesign, sensor integration, and physics-based simulation in **Siemens NX CAD / Mechatronics Concept Designer**.
-
----
-
-## 🎯 Objectives
+##  Objectives
 
 - Design and engineer an autonomous rover capable of climbing steps up to **10 cm**
 - Ensure stable, safe, and energy-efficient autonomous navigation
@@ -20,7 +20,7 @@ This project focused on the **design modification and virtual evaluation** of an
 
 ---
 
-## ✅ Requirements
+## Requirements
 
 | Category | Requirement |
 |---|---|
@@ -32,7 +32,7 @@ This project focused on the **design modification and virtual evaluation** of an
 
 ---
 
-## 🔧 Methodology
+## Methodology
 
 ### Functional & Non-Functional Prerequisites
 
@@ -75,13 +75,13 @@ The virtual testing environment includes:
 |---|---|
 | ![Rover approaching stairs](images/rover-1.jpg) | ![Rover climbing with LIDAR](images/rover-2.jpg) |
 
-### 🎬 Simulation Video
+### Simulation Video
 
-> 📹 **[Watch the full simulation video here](#)** ← *(Replace `#` with your YouTube/Google Drive link)*
+> 📹 **[Watch the full simulation video here](https://drive.google.com/file/d/16uXmguk-oOWE5EzCU11rUApPjrdHzGny/view?usp=sharing)** 
 
 ---
 
-## 📊 Key Outcomes
+## Key Outcomes
 
 - ✅ **Feasibility Proven** — Rover successfully validated for indoor stair navigation
 - ✅ **Systems Integration** — Seamless integration of mechanical design, control logic, and sensor data
@@ -95,45 +95,13 @@ The virtual testing environment includes:
 
 ---
 
-## 📁 Repository Structure
-
-```
-stair-climbing-rover/
-│
-├── images/
-│   ├── rover-1.jpg          # Simulation: rover approaching stairs
-│   └── rover-2.jpg          # Simulation: rover climbing with LIDAR
-│
-├── docs/
-│   └── D2-_POSTER.pdf       # Project poster (TU Clausthal, 2024)
-│
-└── README.md
-```
-
-> 📦 **Full NX simulation files** are available on request due to file size constraints.
-
----
-
 ## 🛠️ Tools & Skills
-
-![Siemens NX](https://img.shields.io/badge/Siemens_NX-CAD%20%26%20Simulation-003087?style=flat-square)
-![Industry 4.0](https://img.shields.io/badge/Industry_4.0-Lab_Project-0078D4?style=flat-square)
-![CAD](https://img.shields.io/badge/CAD-Parametric_Modelling-orange?style=flat-square)
-![Virtual Commissioning](https://img.shields.io/badge/Virtual_Commissioning-NX_MCD-green?style=flat-square)
 
 - Siemens NX (CAD + Mechatronics Concept Designer)
 - Virtual commissioning & physics simulation
 - Function structure & morphological box methodology
 - Systems engineering & requirements analysis
 - Servo motor torque calculation
-
----
-
-## 🏫 Affiliation
-
-**Technische Universität Clausthal**  
-Master Program — Intelligent Manufacturing  
-Lab: Design for Industry 4.0 | Summer Term 2024
 
 ---
 
