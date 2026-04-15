@@ -51,12 +51,12 @@ This project focused on the **"Design modification and virtual evaluation"** of 
 
 ### Design Process
 
-1. **Function Structure & Morphological Box** — Evaluated multiple concept solutions systematically
-2. **Wheel Configuration Modification** — Adjusted wheel geometry and size to handle 10 cm steps
-3. **Chassis Redesign** — Lightweight body modifications for improved mobility and stability
-4. **Servo Motor Analysis** — Calculated required torque to ensure motors can overcome stair resistance
-5. **CAD Modelling** — Updated full rover assembly in Siemens NX
-6. **Virtual Commissioning** — Physics simulation using NX Mechatronics Concept Designer with LIDAR and compass sensors
+1. **Function Structure & Morphological Box**- Evaluated multiple concept solutions systematically
+2. **Wheel Configuration Modification** - Adjusted wheel geometry and size to handle 10 cm steps
+3. **Chassis Redesign** - Lightweight body modifications for improved mobility and stability
+4. **Servo Motor Analysis** - Calculated required torque to ensure motors can overcome stair resistance
+5. **CAD Modelling** - Updated full rover assembly in Siemens NX
+6. **Virtual Commissioning** - Physics simulation using NX Mechatronics Concept Designer with LIDAR and compass sensors
 
 ---
 
@@ -83,15 +83,15 @@ The virtual testing environment includes:
 
 ## Key Outcomes
 
-- **Feasibility Proven** — Rover successfully validated for indoor stair navigation
-- **Systems Integration** — Seamless integration of mechanical design, control logic, and sensor data
-- **Autonomous Navigation** — Rover climbs stairs without human intervention
+- **Feasibility Proven** - Rover successfully validated for indoor stair navigation
+- **Systems Integration** - Seamless integration of mechanical design, control logic, and sensor data
+- **Autonomous Navigation** - Rover climbs stairs without human intervention
 
 ### Challenges & Reflections
 
-- **Weight Optimization** — Balancing chassis weight was critical for stability and energy efficiency
-- **Sensor Accuracy** — Precise LIDAR data was essential; highlighted the need for high-quality sensors
-- **Iterative Design** — Each design iteration improved climbing performance significantly
+- **Weight Optimization** - Balancing chassis weight was critical for stability and energy efficiency
+- **Sensor Accuracy** - Precise LIDAR data was essential; highlighted the need for high-quality sensors
+- **Iterative Design** - Each design iteration improved climbing performance significantly
 
 ---
 
