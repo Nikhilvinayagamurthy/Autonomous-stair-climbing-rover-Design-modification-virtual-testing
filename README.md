@@ -60,7 +60,7 @@ This project focused on the **"Design modification and virtual evaluation"** of 
 
 ---
 
-## 🖥️ Simulation & Results
+## Simulation & Results
 
 The virtual testing environment includes:
 - Rigid body physics for rover chassis and wheels
@@ -83,9 +83,9 @@ The virtual testing environment includes:
 
 ## Key Outcomes
 
-- ✅ **Feasibility Proven** — Rover successfully validated for indoor stair navigation
-- ✅ **Systems Integration** — Seamless integration of mechanical design, control logic, and sensor data
-- ✅ **Autonomous Navigation** — Rover climbs stairs without human intervention
+- **Feasibility Proven** — Rover successfully validated for indoor stair navigation
+- **Systems Integration** — Seamless integration of mechanical design, control logic, and sensor data
+- **Autonomous Navigation** — Rover climbs stairs without human intervention
 
 ### Challenges & Reflections
 
@@ -95,7 +95,7 @@ The virtual testing environment includes:
 
 ---
 
-## 🛠️ Tools & Skills
+## Tools & Skills
 
 - Siemens NX (CAD + Mechatronics Concept Designer)
 - Virtual commissioning & physics simulation
